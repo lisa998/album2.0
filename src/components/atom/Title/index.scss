@@ -1,0 +1,10 @@
+
+.title{
+  font-size: 20px;
+  font-weight: bold;
+  color: blue;
+  
+  &.red{
+    color: red;
+  }
+}
